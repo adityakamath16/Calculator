@@ -6,7 +6,7 @@ I am using Kotlin as my backend programming langauge<br>
 App does not need any kind of internet connectivity for any purpose<br>
 
 
-<p><h3>Download the app here: </h3></p>
+## Download the app here:
 <a href="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/calculator%2Fcalculator%20-%20adityakamath16.apk?alt=media&token=44fc3fbc-ea11-4134-a329-2a7562e4332f">Download Link</a>
 
 ## Clone Repository
