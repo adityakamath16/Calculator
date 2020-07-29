@@ -11,5 +11,8 @@ App does not need any kind of internet connectivity for any purpose<br>
 
 <p></p>
 <p></p>
-
+## Clone Repository
+ ```
+  https://github.com/adityakamath16/Calculatorgit    
+ ```
 <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/calculator%2Fcalculator%20banner.jpg?alt=media&token=9331b596-b478-4c50-8a90-e1ea9a2548fa"></img>
